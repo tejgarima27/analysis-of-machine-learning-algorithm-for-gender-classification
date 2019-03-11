@@ -1,0 +1,2 @@
+# analysis-of-machine-learning-algorithm-for-gender-classification
+We have various machine algorithms for gender classification but choosing best one is important task.  For selecting best algorithm we conducted experimental study on machine learning algorithms for gender classification. In this experimental study of machine learning algorithms, we analyzed performance of various algorithms for gender classification using voice dataset.  From this study we concluded that SVM and ANN are giving best results.
